@@ -1,6 +1,6 @@
 ## BayWheels-Project
 
-## Goals
+### Goals
 I wanted to visualize how bike share traffic in SF changed with COVID-19. Using publicly available data from Lyft's BayWheels program, I mapped the number of rides initiated by zip code by week for 2020. 
 
 Research question : How has BayWheels bike ride behavior changed as a result of COVID-19?
