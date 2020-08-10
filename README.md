@@ -33,7 +33,6 @@ I wanted to visualize how bike share traffic in SF changed around COVID-19. Usin
 - Create images of rides by week by zip code
 - Create GIF in CL using ImageMagick
 
-
 ### Sources 
 This information, particularly the tutorials and guides on Medium, were instrumental in this project
 
