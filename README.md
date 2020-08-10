@@ -7,10 +7,11 @@ Research question : How has BayWheels bike ride behavior changed as a result of 
 
 ### Steps
 - Pull CSVs from Jan-Jun 2020 into Dataframe
-- Clean up records (remove partial weeks, create COVID variable etc)
+- Clean up records (remove partial weeks, remove ~20 records with (0,0) starting point, create COVID variable etc)
 - Create GeoPanda with Geometry points
-- Map to SF Zips, restrict to SF 
-- Gather basic information on pre/post COVID-19 and display as charts
+- Map to SF Zips, restrict to SF Zips only (not full Bay Area)
+- Gather basic information on pre/post COVID-19 and create charts
+- Map top stations
 - Map rides by week by zip code
 - Create GIF
 
@@ -18,7 +19,6 @@ Research question : How has BayWheels bike ride behavior changed as a result of 
 - Data Analysis complete
 - Created GIF and Charts
 - To Complete: Automate Ingestion of CSVs
-- To Complete: Final de-duping checks for data between months
 
 ### Data Sources
 - Bike Data: https://s3.amazonaws.com/baywheels-data/index.html
