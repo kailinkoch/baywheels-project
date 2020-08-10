@@ -34,7 +34,7 @@ I wanted to visualize how bike share traffic in SF changed around COVID-19. Usin
 - Create GIF in CL using ImageMagick
 
 
-### Sources¶
+### Sources 
 This information, particularly the tutorials and guides on Medium, were instrumental in this project
 
 Medium Articles
