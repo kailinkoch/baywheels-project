@@ -22,6 +22,7 @@ Research question : How has BayWheels bike ride behavior changed as a result of 
 - Data Analysis complete
 - Created GIF and Charts
 - To Complete: Automate Ingestion of CSVs
+- To Complete: Re-factor Jupyter Notebook into Pycharm
 
 ### Data Sources
 - Bike Data: https://s3.amazonaws.com/baywheels-data/index.html
@@ -31,8 +32,8 @@ Research question : How has BayWheels bike ride behavior changed as a result of 
 This information, particularly the tutorials and guides on Medium, were instrumental in this project
 
 Approach
-- Importing CSVs: https://medium.com/@kadek/elegantly-reading-multiple-csvs-into-pandas-e1a76843b688
 - Time lapse display: https://medium.com/@tyreus/visualizing-the-spread-of-the-2019-coronavirus-with-python-7e63230f9505
+- Importing CSVs: https://medium.com/@kadek/elegantly-reading-multiple-csvs-into-pandas-e1a76843b688
 - GeoPandas Plotting: https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972
 
 Historical Context
