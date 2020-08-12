@@ -6,8 +6,11 @@ I wanted to visualize how bike share traffic in SF changed with COVID-19. Using 
 Research question : How has BayWheels bike ride behavior changed as a result of COVID-19?
 
 ### Steps
-- Pull CSVs from Jan-Jun 2020 into Dataframe
-- Clean up records (remove partial weeks, remove ~20 records with (0,0) starting point, create COVID variable etc)
+- Pulled CSVs from Jan-Jun 2020 into Dataframe
+- Renamed the columns names for Apr-Jun, because they changed. May also had an additional column. 
+- Removed the partial weeks at the beginning of January and end of June to do a comparison of full weeks only
+- Removed 24 records with (0,0) starting point
+- Created a COVID variable that started on 3/17/2020
 - Create GeoPanda with Geometry points
 - Map to SF Zips, restrict to SF Zips only (not full Bay Area)
 - Gather basic information on pre/post COVID-19 and create charts
