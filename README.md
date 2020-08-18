@@ -3,7 +3,7 @@
 ### Goals
 I wanted to visualize how bike share traffic in SF changed with COVID-19. Using publicly available data from Lyft's BayWheels program, I mapped the number of rides initiated by zip code by week for 2020. 
 
-Research question : How has BayWheels bike ride behavior changed as a result of COVID-19?
+Research question : How has COVID-19 changed BayWheels user behavior?
 
 ### Steps
 - Pulled CSVs from Jan-Jun 2020 into Dataframe
@@ -32,7 +32,7 @@ Research question : How has BayWheels bike ride behavior changed as a result of 
 This information, particularly the tutorials and guides on Medium, were instrumental in this project
 
 Approach
-- Time lapse display: https://medium.com/@tyreus/visualizing-the-spread-of-the-2019-coronavirus-with-python-7e63230f9505
+- Time lapse GIF: https://medium.com/@tyreus/visualizing-the-spread-of-the-2019-coronavirus-with-python-7e63230f9505
 - Importing CSVs: https://medium.com/@kadek/elegantly-reading-multiple-csvs-into-pandas-e1a76843b688
 - GeoPandas Plotting: https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972
 
