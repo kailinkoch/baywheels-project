@@ -5,6 +5,10 @@ I wanted to visualize how bike share traffic in SF changed with COVID-19. Using 
 
 Research question : How has COVID-19 changed BayWheels user behavior?
 
+### Write Up
+See full write up of my findings here and process here
+
+
 ### Steps
 - Pulled CSVs from Jan-Jun 2020 into Dataframe
 - Renamed the columns names for Apr-Jun, because they changed. May also had an additional column. 
